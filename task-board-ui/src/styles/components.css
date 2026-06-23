@@ -1,0 +1,20 @@
+nav {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px 30px;
+  background:var(--card);
+  border-bottom:1px solid var(--border);
+}
+
+
+nav a {
+  margin-right:20px;
+  color:var(--text);
+  text-decoration:none;
+}
+
+
+nav button {
+  padding:8px 14px;
+}

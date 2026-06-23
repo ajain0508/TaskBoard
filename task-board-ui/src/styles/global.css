@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+:root {
+  --bg: white;
+  --text: #222;
+  --card: #f4f4f4;
+}
+
+.dark {
+  --bg: #121212;
+  --text: white;
+  --card: #1e1e1e;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+button {
+  cursor: pointer;
+}

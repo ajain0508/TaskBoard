@@ -1,0 +1,42 @@
+.projects {
+  padding: 30px;
+}
+
+.project-form {
+  background: var(--card);
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  margin-bottom: 30px;
+}
+
+.project-form input,
+.project-form textarea {
+  display: block;
+
+  width: 100%;
+
+  padding: 10px;
+
+  margin-bottom: 15px;
+}
+
+.project-list {
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 20px;
+}
+
+.project-card {
+  background: var(--card);
+
+  border: 1px solid #ccc;
+
+  padding: 20px;
+
+  border-radius: 10px;
+}
