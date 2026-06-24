@@ -194,6 +194,7 @@ dotnet test
 - Cascade delete removes tasks and comments when a project is deleted.
 - `useApi` custom hook handles API calls, loading state, and errors.
 
+# Screenshots
 
 ![Dashboard](./assets/screenshot/Dashboard.png)
 ![Projects](./assets/screenshot/Projects.png)
