@@ -196,12 +196,29 @@ dotnet test
 
 # Screenshots
 
+**Dashboard**
 ![Dashboard](./assets/screenshot/Dashboard.png)
+
+**Projects**
 ![Projects](./assets/screenshot/Projects.png)
+
+**Edit Project**
 ![Edit Project](./assets/screenshot/EditProject.png)
+
+**Tasks**
 ![Tasks](./assets/screenshot/Tasks.png)
+
+**Edit Task**
 ![EditTask](./assets/screenshot/EditTask.png)
+
+**Pagination 1**
 ![Pagination1](./assets/screenshot/Pagination1.png)
+
+**Pagination 2**
 ![Pagination2](./assets/screenshot/Pagination2.png)
+
+**Pagination 3**
 ![Pagination3](./assets/screenshot/Pagination3.png)
+
+**Comments**
 ![Comments](./assets/screenshot/Comments.png)
